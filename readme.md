@@ -13,7 +13,7 @@ Calculadora é um dispositivo para a realização de cálculos numéricos. São 
 é necessário fazer download do arquivo e abrir o ``index.html`` 
 
 ```
-
+https://github.com/NewMiniBoss/calculadora/archive/refs/heads/main.zip
 ```
 
 ## Funcionalidade do instrumento ⚙
