@@ -6,7 +6,7 @@ Calculadora é um dispositivo para a realização de cálculos numéricos. São 
 
 
 ## Preview 🎥
-???
+![calcu](https://user-images.githubusercontent.com/80296330/199977062-4709866f-3a03-4102-bf1a-ae23b4d1b91e.png)
 
 ## Acessar o projeto e rodar 📁
 
